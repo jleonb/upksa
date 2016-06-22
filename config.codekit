@@ -1,7 +1,16 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "19099",
+"creatorBuild": "19120",
 "files": {
+	"\/arriendo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/arriendo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/bin\/form-1.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -167,6 +176,72 @@
 		"initialSize": 297631,
 		"inputAbbreviatedPath": "\/img\/1.png",
 		"outputAbbreviatedPath": "\/img\/1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/1\/foto_1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.16628e+06,
+		"inputAbbreviatedPath": "\/img\/1\/foto_1.jpg",
+		"outputAbbreviatedPath": "\/img\/1\/foto_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/1\/foto_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.68743e+06,
+		"inputAbbreviatedPath": "\/img\/1\/foto_2.jpg",
+		"outputAbbreviatedPath": "\/img\/1\/foto_2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/1\/foto_3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.78073e+06,
+		"inputAbbreviatedPath": "\/img\/1\/foto_3.jpg",
+		"outputAbbreviatedPath": "\/img\/1\/foto_3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/1\/foto_4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.54379e+06,
+		"inputAbbreviatedPath": "\/img\/1\/foto_4.jpg",
+		"outputAbbreviatedPath": "\/img\/1\/foto_4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/1\/foto_5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3.01783e+06,
+		"inputAbbreviatedPath": "\/img\/1\/foto_5.jpg",
+		"outputAbbreviatedPath": "\/img\/1\/foto_5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/1\/foto_6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.60413e+06,
+		"inputAbbreviatedPath": "\/img\/1\/foto_6.jpg",
+		"outputAbbreviatedPath": "\/img\/1\/foto_6.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
